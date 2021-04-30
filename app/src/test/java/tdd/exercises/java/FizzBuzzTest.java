@@ -8,7 +8,7 @@ import static org.junit.Assert.*;
 
 import org.junit.jupiter.api.BeforeEach;
 
-public class AppTest {
+public class FizzBuzzTest {
 
     @Test
     public void testDivisableBy3() {
